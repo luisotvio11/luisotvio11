@@ -1,8 +1,4 @@
-### Hi there 👋, My name is Luis Otávio
-#### I am a Software Developer
-![I am a Software Developer](https://www.linkedin.com/in/luisotaviobatistadev/)
+<img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=tokyonight"/>
 
-I am passionate about technology, innovation and big challenging. I'm currently migrating from infrastructure to development.
-
-
-Skills: Java | Spring | PHP
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+E
